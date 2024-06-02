@@ -23,7 +23,7 @@ email:
 description: >-
   Themed by kimhs
 baseurl: ""
-url: "https://hyunsu.github.io"
+url: "https://hyunsu.github.io/"
 github_username: ejjoo
 highlighter: rouge
 svg:
