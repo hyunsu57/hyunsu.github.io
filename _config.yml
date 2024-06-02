@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Monos
+title: hyunsu
 email: 
 description: >-
   Themed by kimhs
 baseurl: ""
 url: "https://hyunsu.github.io/"
-github_username: ejjoo
+github_username: hyunsu
 highlighter: rouge
 svg:
   optimize: true
